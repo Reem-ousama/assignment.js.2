@@ -1,0 +1,8 @@
+.btn:hover{
+ background-color: green;
+ border: 1px solid green;
+}
+h1{
+    font-family: 'Passion One', sans-serif;
+    font-size: 100px;
+}
